@@ -1,5 +1,5 @@
 # CSS3 Shapes Cheat Sheet
-A dead simple collection of CSS3 shapes for funky website design and web apps. Free to use and abuse in any shape (See what I did there? Lol). If you have any questions then please don’t hesitate to get in touch with me on Twitter or leave a comment on our [CSS3 Shapes Cheat Sheet blog post](https://www.bybe.net/css3-simple-shapes-cheat-sheet/) on our site.
+A dead simple collection of CSS3 shapes for funky website design and web apps. Free to use and abuse in any shape (See what I did there? Lol). If you have any questions then please don’t hesitate to [get in touch with me on Twitter](https://twitter.com/simonhayteruk) or leave a comment on our [CSS3 Shapes Cheat Sheet blog post](https://www.bybe.net/css3-simple-shapes-cheat-sheet/) on our site.
 
 ###### CSS3 Code 
 
@@ -150,3 +150,9 @@ A dead simple collection of CSS3 shapes for funky website design and web apps. F
 
 ###### Contribution
 Free welcome to commit and push changes to this project but please attempt to keep the same style as displayed in the demo file, after-all we don’t want the demo design looking pants now, do we?
+
+###### Connect with Simon Hayter
+
+- [About.me](https://about.me/simonhayter)
+- [Dribbble.com](https://dribbble.com/simonhayter)
+- [Twitter.com](https://twitter.com/simonhayteruk)
