@@ -1,0 +1,24 @@
+html, body, .css3-blocks div, main, h2 {
+	margin: 0 auto;
+	font-size: 16px;
+	color: #444;
+	font-family: Verdana,Geneva,sans-serif;
+	text-align: center;
+}
+
+main {
+	width:760px;
+}
+
+.css3-blocks {
+	width: 33.3%;
+	float: left;
+}
+
+h1, .css3-blocks { 
+	padding: 2rem 0;
+}
+	
+h2.css3-correction {
+	margin-top: 13px;
+}
