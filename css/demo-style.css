@@ -1,13 +1,14 @@
-html, body, .css3-blocks div, main, h2 {
+html, body, .css3-blocks div, main, h2, footer, footer a {
 	margin: 0 auto;
 	font-size: 16px;
 	color: #444;
 	font-family: Verdana,Geneva,sans-serif;
 	text-align: center;
+	text-decoration: none;
 }
 
-main {
-	width:760px;
+main, footer {
+	width: 760px;
 }
 
 .css3-blocks {
@@ -15,10 +16,14 @@ main {
 	float: left;
 }
 
-h1, .css3-blocks { 
+h1, .css3-blocks, footer { 
 	padding: 2rem 0;
 }
 	
 h2.css3-correction {
 	margin-top: 13px;
+}
+
+footer a:hover {
+	color: #b33446;
 }
