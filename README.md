@@ -1,6 +1,10 @@
 # CSS3 Shapes Cheat Sheet
 A dead simple collection of CSS3 shapes for funky website design and web apps. Free to use and abuse in any shape (See what I did there? Lol). If you have any questions then please don’t hesitate to [get in touch with me on Twitter](https://twitter.com/simonhayteruk) or leave a comment on our [CSS3 Shapes Cheat Sheet blog post](https://www.bybe.net/css3-simple-shapes-cheat-sheet/) on our site.
 
+###### Demo
+
+View the [CSS3 Shapes Cheat Sheet demo](http://simonhayter.github.io/CSS3-Shapes-Cheat-Sheet/) page.
+
 ###### CSS3 Code 
 
 ```
